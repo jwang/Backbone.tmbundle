@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>var ${1:ListRouter} = Backbone.Router.extend({
+  routes: {
+    "list": "list"
+  },
+  initialize: function(options) {
+
+  }
+});
+</string>
+	<key>name</key>
+	<string>Router</string>
+	<key>scope</key>
+	<string>source.js.backbone</string>
+	<key>tabTrigger</key>
+	<string>router</string>
+	<key>uuid</key>
+	<string>619A885C-E8CF-4B1E-8CD0-CD8251EEC024</string>
+</dict>
+</plist>
